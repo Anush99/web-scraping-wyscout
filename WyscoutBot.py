@@ -397,8 +397,8 @@ def get_league_data(country, league):
 
         # Login - wyscout_url = 'https://wyscout.com/'
         wyscout_url = 'https://platform.wyscout.com/app/?/'
-        wyscout_user_name = 'oskar@moretuscapital.com'
-        wyscout_user_password = 'Supermix123$'
+        wyscout_user_name = ''
+        wyscout_user_password = ''
         wyscout_driver = bot_driver(wyscout_url, wyscout_user_name, wyscout_user_password)
         time.sleep(10)
 
