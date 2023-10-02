@@ -18,8 +18,8 @@ profile_path = "--user-data-dir=/Users/anushik/Library/Application Support/Googl
 players_file = "serie_c_ita_players.csv"
 new_players_file = "players_updated_data.csv"
 wyscout_url = 'https://platform.wyscout.com/app/?/'
-wyscout_user_name = 'oskar@moretuscapital.com'
-wyscout_user_password = 'Supermix123$'
+wyscout_user_name = ''
+wyscout_user_password = ''
 
 
 def open_browser():

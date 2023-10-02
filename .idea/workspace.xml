@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35dd54e7-f51f-431e-b1c9-8bab3ef488a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/football" beforeDir="false" afterPath="$PROJECT_DIR$/football" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/football/PARIS_SAINT-GERMAIN_FC_index_2_2022_2023.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/football/example.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/football/next.csv" beforeDir="false" />
@@ -16,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/football" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -46,6 +48,7 @@
       <workItem from="1695285648140" duration="24153000" />
       <workItem from="1695886852989" duration="476000" />
       <workItem from="1696272671504" duration="1345000" />
+      <workItem from="1696274031900" duration="634000" />
     </task>
     <servers />
   </component>
