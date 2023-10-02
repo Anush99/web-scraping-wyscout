@@ -23,3 +23,15 @@ pip install selenium
 6. Downlaod the chromedriver compatible with your os and current running Chrome browser (check in Settings)
   https://chromedriver.chromium.org/downloads
    <br />
+
+### Usage
+1. Run WyscoutBot.py to scrape leagues
+   ```
+python3 WyscoutBot.py
+```
+2. Run players.py to retreive player data
+
+3. Run soupify.py to adjust player data
+
+4. Run Matching_Wyscout_FootyStats.py to create a dataset with players data
+
